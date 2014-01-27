@@ -2,7 +2,7 @@
 View and hide comments on a page with this [jQuery](http://jquery.com/) plugin. 
 
 ## Example 
-View a [working example](http://jsfiddle.net/mattnorris/3s69M/4/).
+View a [working example](http://jsfiddle.net/mattnorris/3s69M/).
 
 ## Get Started
 ### HTML

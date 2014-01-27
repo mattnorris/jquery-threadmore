@@ -1,7 +1,10 @@
 # Threadmore
 View and hide comments on a page with this [jQuery](http://jquery.com/) plugin. 
 
-## Getting Started
+## Example 
+View a [working example](http://jsfiddle.net/mattnorris/3s69M/4/).
+
+## Get Started
 ### HTML
 Given a list of comments: 
 
@@ -60,7 +63,7 @@ Simply pass "div" as the _elType_:
 </script>
 ```
 
-## Other options
+## Options
 
 Just like _elType_, the rest of **Threadmore's** options can be customized. 
 

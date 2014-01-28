@@ -1,5 +1,5 @@
 # Threadmore
-View and hide comments on a page with this [jQuery](http://jquery.com/) plugin. 
+Expand and collapse comments in a thread with this [jQuery](http://jquery.com/) plugin. 
 
 ## Example 
 View a [working example](http://jsfiddle.net/mattnorris/3s69M/).

@@ -66,7 +66,7 @@
 	 * @param {Object} disShow Display text for show control 
 	 */
 	function updateShowControl($control, total, currIndex, disShow) {
-		// If the difference between teh total items and current index is 
+		// If the difference between the total items and current index is 
 		// negative, bump it up to zero, since we really have 0 items left, 
 		// not -N items left. 
 		var dItems = total - currIndex; 
@@ -184,7 +184,8 @@
 								}
 								
 								$items.slice(showIndex, currIndex)
-								    .animate({opacity: 'hide', height: 'hide'}, 'slow');
+								    .animate({opacity: 'hide', height: 'hide'}, 
+								    	'slow');
 									
 								cHidden = updateShowControl(
 								    $control, 
@@ -192,7 +193,7 @@
 									showIndex, 
 									opts.disShow);
 									
-								toggleShowControl($control, cHidden, opts.CTA, 
+								toggleShowControl($control, cHidden, opts.aCTA, 
 								    opts.iCTA);
 									
 								toggleHideControl($control, showIndex, 
